@@ -154,3 +154,6 @@ xlrd==2.0.1
 XlsxWriter==3.0.3
 xlwings==0.28.5
 zipp==3.17.0
+
+# Cài yolov5 từ repo chính thức trên GitHub:
+git+https://github.com/ultralytics/yolov5.git
