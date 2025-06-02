@@ -16,7 +16,7 @@ ENV/
 .DS_Store
 
 # YOLOv5 local repo nếu không dùng submodule
-yolov5/
+# yolov5/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
