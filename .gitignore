@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+env/
+venv/
+ENV/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# YOLOv5 local repo nếu không dùng submodule
+yolov5/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Log file
+*.log
+
+# Model weights (nếu bạn lưu .pt)
+*.pt
+
+*.jpg
